@@ -1,0 +1,23 @@
+.monImage>img{
+    height: 230px;
+}
+section{
+    color: white;
+}
+.typo{
+    width: 500px;
+}
+.typo>h1{
+    color: yellowgreen;
+}
+.typo>p{
+    text-align: justify;
+}
+.mep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mep>div{
+    padding: 50px;
+}

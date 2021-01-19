@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    background-color: rgb(98, 98, 98);
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer>p{
+    margin: 0;
+}
